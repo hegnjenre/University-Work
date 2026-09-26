@@ -1,0 +1,131 @@
+body{
+	background-color:#E7D8C9;
+	padding:1%;
+	margin:0%;
+}
+
+#header {
+	text-align:center;
+	font-size:126%;
+	margin-top: -1%;
+	margin-left: -1%;
+	margin-right: -1%;
+	margin-bottom:1.5%;
+	padding:1%;	
+	background-color:#E1D4C2;
+}
+
+#header ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#header ul li{
+	display:inline;
+}
+
+.smallDivLAbdul{
+	padding:1%;
+	display:inline-block;
+	float:left;
+	width:100%;
+	background-color:#EEE4E1;
+	margin-bottom:1.75%;
+}
+
+#divTextSmallNadeem{
+	font-size:156%;
+}
+
+.containerLeftStephanie {
+	width:30%;
+	margin-bottom:1%;
+	float:left;
+}
+
+.containerRightStephanie {
+	width:67%;
+	margin-bottom:1%;
+	float:right;
+}
+
+.container {
+	margin-bottom:1%;
+	width:98%;    
+/*98% instead of 100% to account for the 1% padding on each side of the body*/
+}
+.containerLeft {
+	width:67%;
+	margin-bottom:1%;
+	float:left;
+}
+
+.containerRight {
+	width:30%;
+	margin-bottom:1%;
+	float:right;
+}
+
+.smallDivR {
+	padding:1%;
+	display:inline-block;
+	float:right;
+	width:100%;
+	background-color:#EEE4E1;
+	margin-bottom:3.5%;
+}
+
+.smallDivL {
+	padding:1%;
+	display:inline-block;
+	float:left;
+	width:100%;
+	background-color:#EEE4E1;
+	margin-bottom:3.5%;
+}
+
+.longDivL{
+	padding:1%;
+	display:inline-block;
+	float:left;
+	width:100%;
+	background-color:#EEE4E1;
+	margin-bottom:1.75%;
+}
+
+.longDivR{
+	padding:1%;
+	display:inline-block;
+	float:right;
+	width:100%;
+	background-color:#EEE4E1;
+	margin-bottom:1.75%;
+}
+
+.divHeader {
+	text-align:center;
+	font-size:150%;
+}
+
+.divText {
+	font-size:130%;
+}
+
+.divText a {
+	font-size:50%
+}
+
+#containerLeftSmall 
+{
+	width:30%;
+	margin-bottom:1%;
+	float:left;
+}
+
+#containerRightLong
+{
+	width:67%;
+	margin-bottom:1%;
+	float:right;
+}

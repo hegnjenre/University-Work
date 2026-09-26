@@ -1,0 +1,53 @@
+97 = 144 + 7 = 151 = 10010111
+DB = 208 + 11 = 219= 11011011
+
+
+ 10010111
+ 11011011
+101110010
+
+-- means overwritten
+
+t0 x  --
+t1 y  --
+t2 z  --
+
+t3 8x
+t2 2z --
+
+t0 (x+x) --
+t1 2y --
+t2 -2z
+
+v0 (x+x) --
+t0 ((x+x)-2z)
+v0 ((x+x)+8x) --
+t1 4y^2
+v0 (((x+x)+8x)+4y^2)
+
+
+x*947
+sll x, x, 59
+
+
+128x - (64x - (16x - (4x - (x)))) = 128x - (64x - (16x - (3x))) 
+				  = 128x - (64x - (13x))
+				  = 128x - (51x)
+				  = 77x
+
+       -- ---- ---- ---- -
+1234 5678 9ABC DEFG HIJK LMNO PQRS TUVW
+0000 0011 1111 1111 1111 1000 0000 0000
+
+ 0    3    F    F    F    8    0    0
+
+
+4 blocks, total 1024
+2^2 idx , 2^10 offset
+
+2^24: total address 24 bits
+
+so tag is the rest after idx and off (12)
+
+tag idx off
+ 12  2   10

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CalcEngineTester()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CalcEngineTester\r\n
+comment1.params=
+comment1.target=void\ testAll()
+comment1.text=\r\n\ Test\ everything.\r\n
+comment2.params=
+comment2.target=int\ testPlus()
+comment2.text=\r\n\ Test\ the\ plus\ operation\ of\ the\ engine.\r\n\ @return\ the\ result\ of\ calculating\ 3+4.\r\n
+comment3.params=
+comment3.target=int\ testMinus()
+comment3.text=\r\n\ Test\ the\ minus\ operation\ of\ the\ engine.\r\n\ @return\ the\ result\ of\ calculating\ 9\ -\ 4.\r\n
+numComments=4

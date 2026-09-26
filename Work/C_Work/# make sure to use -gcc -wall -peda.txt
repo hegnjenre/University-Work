@@ -1,0 +1,11 @@
+# make sure to use -gcc -wall -pedantic in the command line in order to get warnings
+#			   compiler, warnings, mode
+
+# using ssh for linux lab computer - in command line:
+# ssh *DS USERNAME*@cafe.cis.strath.ac.uk
+# password: *doesn't show characters when typing but does work*
+# then you have access to command line of lab computer
+# logout and use: scp *filename* *DS USERNAME*@cafe.cis.strath.ac.uk:*filename wanted on lab computer*
+# then use gcc *filename* to run file
+
+# ls will display files on lab computer working directory
